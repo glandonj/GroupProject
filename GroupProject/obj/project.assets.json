@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jstra\\.nuget\\packages\\": {}
+    "C:\\Users\\earle\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jstra\\source\\repos\\GroupProject\\GroupProject\\GroupProject.csproj",
+      "projectUniqueName": "C:\\Users\\earle\\source\\repos\\GC Folder\\GC Course Work\\Practice class\\Project\\GroupProject\\GroupProject\\GroupProject.csproj",
       "projectName": "GroupProject",
-      "projectPath": "C:\\Users\\jstra\\source\\repos\\GroupProject\\GroupProject\\GroupProject.csproj",
-      "packagesPath": "C:\\Users\\jstra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jstra\\source\\repos\\GroupProject\\GroupProject\\obj\\",
+      "projectPath": "C:\\Users\\earle\\source\\repos\\GC Folder\\GC Course Work\\Practice class\\Project\\GroupProject\\GroupProject\\GroupProject.csproj",
+      "packagesPath": "C:\\Users\\earle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\earle\\source\\repos\\GC Folder\\GC Course Work\\Practice class\\Project\\GroupProject\\GroupProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jstra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\earle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
